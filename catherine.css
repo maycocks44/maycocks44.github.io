@@ -1,0 +1,35 @@
+body{
+    background-color:green ;
+}
+
+img{
+    width:200px;
+}
+.pageContent{
+    text-align:center; 
+}
+p{
+    color:yellowgreen;
+}
+header{
+    text-align:center;
+}
+img{
+    border-style: groove;
+}
+#punchline{
+    font-style: italic;
+}
+#punchline2{
+    font-style: italic;
+}
+nav{
+    text-align: right;
+}
+ 
+header{
+    border-style: solid
+}
+header{
+    color:red
+}
